@@ -1,0 +1,16 @@
+.header {
+  background-color: yellow;
+}
+.footer {
+  background-color: blue;
+}
+.content {
+  width: 69%;
+  display: inline-block;
+  background-color: gray;
+}
+.sidebar {
+  width: 30%;
+  display: inline-block;
+  background-color: orange;
+}

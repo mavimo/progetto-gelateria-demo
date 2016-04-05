@@ -1,0 +1,17 @@
+.header {
+  background-color: purple;
+  color: white;
+}
+.footer {
+  background-color: green;
+}
+.content {
+  width: 69%;
+  display: inline-block;
+  background-color: yellow;
+}
+.sidebar {
+  width: 30%;
+  display: inline-block;
+  background-color: gray;
+}

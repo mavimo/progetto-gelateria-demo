@@ -1,0 +1,7 @@
+# calendario:
+#     resource: "@CalendarioBundle/Resources/config/routing.yml"
+#     prefix:   /
+
+gelateria:
+    resource: "@GelateriaBundle/Resources/config/routing.yml"
+    prefix:   /

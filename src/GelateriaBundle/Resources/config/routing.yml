@@ -1,0 +1,11 @@
+gelateria_homepage:
+    path:     /
+    defaults: { _controller: GelateriaBundle:Frontoffice:homepage }
+
+gelateria_gelateria:
+    path:     /gelateria
+    defaults: { _controller: GelateriaBundle:Frontoffice:gelateria }
+
+gelateria_search:
+    path:     /search
+    defaults: { _controller: GelateriaBundle:Frontoffice:search }
